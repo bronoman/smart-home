@@ -4,6 +4,7 @@ This section contains the key config files needed to read out parameters from a 
 - `poll_list.py` - this file contains my initial findings of parameters which have been confirmed on a running system via user menu and display outputs, pull requests welcome
 
 # Addl. setup Notes
+related to: [Optolink Wiki / openHAB integration](https://github.com/philippoo66/optolink-splitter/wiki/212-openHAB-Integration-of-Optolink%E2%80%90Splitter)
 ## Optolink Splitter
 [https://github.com/philippoo66/optolink-splitter](https://github.com/philippoo66/optolink-splitter?tab=readme-ov-file#desktop_computerhardware-requirements)
 
