@@ -519,7 +519,7 @@ except urllib.error.HTTPError as e:
         print(f"  ⚠️  HTTP {e.code} error accessing log viewer")
 except Exception as e:
     print(f"  ⚠️  Could not fetch logs: {e}")
-    print(f"     Try: curl -u 'username:' http://192.168.1.10:8080/developer/log-viewer")
+    print(f"     Try: curl -u 'username:' http://[your-ip:port]/developer/log-viewer")
 
 print("\n" + "=" * 60)
 print("✅ Advanced diagnostics complete")
