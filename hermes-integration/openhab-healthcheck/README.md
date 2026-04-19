@@ -1,7 +1,7 @@
 This is a brief description of the skill file which allows Hermes Agent to perform a comprehensive healthcheck on an openHAB smarthome server.
 
 # Important Note:
-This file has been stripped of all config data, please review it and add your own paramters to make this work.
+This file has been stripped of all config data, please review it and add your own parameters to make this work.
 
 # Prerequisites
 1. You have an openHAB server running
